@@ -41,7 +41,7 @@
 
 ## 🧑‍💼 About Me
 
-With over [X] years in software quality engineering, I've led QA teams in building robust automation strategies, integrating quality early in the development lifecycle, and improving release confidence. I believe in test automation as a core enabler for fast, safe delivery.
+With over 12 years in software quality engineering, I've led QA teams in building robust automation strategies, integrating quality early in the development lifecycle, and improving release confidence. I believe in test automation as a core enabler for fast, safe delivery.
 
 🔍 Currently exploring:
 - AI in test automation  
