@@ -29,7 +29,7 @@
 ## 📂 Featured Projects
 
 ### 🔹 [API Automation Framework](https://github.com/yourusername/api-automation-framework)
-> A scalable REST API testing framework using **RestAssured**, **TestNG**, and **Allure Reporting**. Supports data-driven testing, parallel execution, and environment-specific configurations.
+> A scalable REST API testing framework using **RestAssured**, **TestNG**, and **Extend Report**. Supports data-driven testing, parallel execution, and environment-specific configurations.
 
 ### 🔹 [UI Automation with Cypress](https://github.com/yourusername/cypress-ui-automation)
 > Modular **Cypress** automation project with custom commands, CI/CD integration, and comprehensive test coverage for regression and smoke suites.
@@ -46,7 +46,6 @@ With over 12 years in software quality engineering, I've led QA teams in buildin
 🔍 Currently exploring:
 - AI in test automation  
 - Shift-left testing strategies  
-- Chaos and resiliency testing  
 
 ---
 
@@ -56,5 +55,3 @@ With over 12 years in software quality engineering, I've led QA teams in buildin
 - ✉️ bhanjan03@gmail.com
 
 ---
-
-*“Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin*
